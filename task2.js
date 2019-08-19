@@ -9,7 +9,7 @@ let counterTwo = 0,
     counterSum = 0;
 while (counterTwo < 1000) {
     if (counterTwo % age === 0) {
-        counterSum += counterTwo
+        counterSum += counterTwo;
     }
     counterTwo++;
 }
